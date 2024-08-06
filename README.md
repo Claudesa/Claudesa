@@ -1,4 +1,4 @@
-[![MasterHead](https://wallpapers.com/images/featured/black-topographic-pbtm4zynr6ggmds3.jpg)
+![MasterHead](https://wallpapers.com/images/featured/black-topographic-pbtm4zynr6ggmds3.jpg)
 <h1 align="center">Hi 👋, I'm Aras</h1>
 <h3 align="center">A passionate full-stack developer from Turkey.</h3>
 
